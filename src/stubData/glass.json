@@ -1,0 +1,50 @@
+[
+  {
+    "code": "clear-glass",
+    "displayName": "clear glass",
+    "description": "2mm thick\ncost effective\navailable in very large sizes",
+    "priceCode": "conserv-clear-glass",
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "code": "clear-perspex",
+    "displayName": "clear perspex",
+    "description": "2mm thick\noptical grade (clear as glass)\nhighly durable\nvery light\n94% UV resistant",
+    "priceCode": "nonref-perspex",
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "code": "non-reflective-glass",
+    "displayName": "non-reflective glass",
+    "description": "2mm thick\nreduces glare and reflections\nsuitable for highly lit rooms\nmatte finish",
+    "priceCode": "nonref-perspex",
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "code": "uv-clear-glass",
+    "displayName": "uv clear glass",
+    "description": "2.5mm thick\n99% UV resistant\nconservation grade\nprotects artworks from fading",
+    "priceCode": "conserv-clear-glass",
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "code": "uv-non-reflective-glass",
+    "displayName": "uv non-reflective glass",
+    "description": "2.5mm thick\n99% UV resistant\nconservation grade\nprotects artworks from fading\nreduces glare and reflections\nmatte finish",
+    "priceCode": "tru-view",
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "code": "no-glass",
+    "displayName": "no glass",
+    "description": "cut & join empty frame\nframe your protected canvas and artworks",
+    "priceCode": null,
+    "discount": 0,
+    "isNew": false
+  }
+]

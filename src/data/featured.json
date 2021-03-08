@@ -1,0 +1,60 @@
+[
+  {
+    "category": "diy-framing",
+    "displayName": "Picture Framing",
+    "fromAPI": true
+  },
+  {
+    "category": "certificate-shop",
+    "isFeatured": true,
+    "displayName": "Certificates",
+    "images": [
+      {
+        "id": 1,
+        "url": "../assets/images/product/certificate.jpg"
+      }
+    ]
+  },
+  {
+    "category": "other-products",
+    "displayName": "Canvas Printing & Stretching",
+    "fromAPI": true
+  },
+  {
+    "category": "diy-framing",
+    "displayName": "Mirrors",
+    "fromAPI": true
+  },
+  {
+    "category": "other-products",
+    "displayName": "Art Mounts",
+    "fromAPI": true
+  },
+  {
+    "category": "other-products",
+    "displayName": "Acrylic Float Frames",
+    "fromAPI": true
+  },
+  {
+    "category": "mirror-shop",
+    "isFeatured": true,
+    "displayName": "Mirror Shop",
+    "images": [
+      {
+        "id": 3,
+        "url": "../assets/images/product/Mirror_Shop.jpg"
+      }
+    ]
+  },
+  {
+    "category": "special-products",
+    "isFeatured": true,
+    "displayName": "Jerseys",
+    "images": [
+      {
+        "id": 2,
+        "url": "../assets/images/memorabilias/style-1.jpg"
+      }
+    ]
+  }
+]

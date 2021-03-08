@@ -1,0 +1,40 @@
+[
+    {
+        "displayName": "Clear Glass",
+        "discount": 0,
+        "description": "2mm Thick\nCost Effective\nAvailable in very large sizes",
+        "isDeleted": false,
+        "isNew": false
+    },
+    {
+        "displayName": "Clear Perspex",
+        "discount": 0,
+        "description": "2mm Thick\nOptical grade (Clear as glass)\nHighly durable\nVery light\n94% UV Resistant",
+        "isNew": false,
+        "isDeleted": false,
+        "priceCode": "Perspex Glass"
+    },
+    {
+        "displayName": "Non-Reflective Glass",
+        "discount": 0,
+        "description": "2mm Thick\nReduces glare and reflections\nSuitable for highly lit rooms\nMatte finish",
+        "isNew": false,
+        "isDeleted": false,
+        "priceCode": "Non Reflective"
+    },
+    {
+        "displayName": "Tru View Ultravue UV 70 Glass (Premium)",
+        "discount": 0,
+        "description": "This 2mm Thick water glass offers crystal clear colour transmission and virtually visible, anti-reflective surface for a truly amazing clarity\n70% UV Protection",
+        "isNew": false,
+        "isDeleted": false,
+        "priceCode": "TRU View"
+    },
+    {
+        "displayName": "No Glass",
+        "discount": 0,
+        "description": "No glass added",
+        "isDeleted": false,
+        "isNew": false
+    }
+]

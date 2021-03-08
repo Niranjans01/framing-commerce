@@ -1,0 +1,15 @@
+[
+    {
+        "displayName": "Print & Stretch",
+        "description": "Your image will be printed and stretched into a frame",
+        "isNew": false,
+        "isDeleted": false,
+        "priceCode": "Stretching"
+    },
+    {
+        "displayName": "Printing Only",
+        "description": "Your image will be printed and rolled into a tube",
+        "isDeleted": false,
+        "isNew": false
+    }
+]

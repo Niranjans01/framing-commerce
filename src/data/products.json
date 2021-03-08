@@ -1,0 +1,2449 @@
+[
+  {
+    "sku": "asdf101",
+    "displayName": "Picture Framing",
+    "slug": "picture-framing",
+    "name": "picture-framing",
+    "affiliateLink": "",
+    "price": 17,
+    "discount": 0,
+    "new": false,
+    "rating": 4,
+    "ratingCount": 5,
+    "saleCount": 90,
+    "category": "diy-framing",
+    "tag": ["diy", "frames"],
+    "stock": 10,
+    "details": [
+      {
+        "name": "dimensions",
+        "variations": [
+          {
+            "custom": {
+              "minimum-width": 10.0,
+              "minimum-height": 10.0,
+              "maximum-width": 101.5,
+              "maximum-height": 152.5,
+              "default-width": 10.2,
+              "default-height": 15.3
+            }
+          },
+          {
+            "A1": {
+              "name": "A1 (59.4 cm x 84.1 cm)",
+              "width": 59.4,
+              "height": 84.1
+            }
+          },
+          {
+            "A2": {
+              "name": "A2 (42.0 cm x 59.4 cm)",
+              "width": 42.0,
+              "height": 59.4
+            }
+          },
+          {
+            "A3": {
+              "name": "A3 (29.7 cm x 42.0 cm)",
+              "width": 29.7,
+              "height": 42.0
+            }
+          },
+          {
+            "A4": {
+              "name": "A4 (21.0 cm x 29.7 cm)",
+              "width": 21.0,
+              "height": 29.7
+            }
+          },
+          {
+            "A5": {
+              "name": "A5 (14.8 cm x 21.0 cm)",
+              "width": 14.8,
+              "height": 21.0
+            }
+          }
+        ]
+      },
+      {
+        "name": "upload-image",
+        "variations": [
+          {
+            "format": ["jpeg", "jpg", "png", "bmp"]
+          }
+        ]
+      },
+      {
+        "name": "frames",
+        "variations": [
+          {
+            "name": "224H",
+            "width": 2,
+            "depth": 2,
+            "rebate": 0.4,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "white",
+            "price-code": 1,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "224F",
+            "width": 2,
+            "depth": 2,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "black",
+            "price-code": 1,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "224RO",
+            "width": 2,
+            "depth": 2,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "raw oak",
+            "price-code": 3,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VA",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "arsenic",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VG",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 10,
+            "new": false,
+            "material": "wood",
+            "color": "smoke",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VS",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "storm",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VO",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 10,
+            "new": true,
+            "material": "wood",
+            "color": "oyster",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VH",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "soft white",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VL",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "straw",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VL",
+            "width": 2,
+            "depth": 2,
+            "rebate": 0.7,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "straw",
+            "price-code": 2,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VS",
+            "width": 2,
+            "depth": 2,
+            "rebate": 0.7,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "storm",
+            "price-code": 2,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          }
+        ]
+      },
+      {
+        "name": "printing",
+        "variations": [
+          {
+            "name": "semi-gloss (luster)",
+            "description": [
+              "industry standard professional photographic paper",
+              "perfect for all types of photographs and portraits",
+              "partial gloss and reflection of light",
+              "90 year archival rating",
+              "ilford Gallerie prestige smooth pearl 310 gsm"
+            ],
+            "price-code": 2,
+            "discount": 0,
+            "new": false,
+            "default": true
+          },
+          {
+            "name": "high-gloss (metallic)",
+            "description": [
+              "amazing glossy metallic reflections",
+              "highlights vibrant colours with pearlescent finish",
+              "incredible image clarity",
+              "ilford Gallerie prestige metallic gloss 260 gsm"
+            ],
+            "price-code": 3,
+            "discount": 10,
+            "new": false,
+            "default": false
+          },
+          {
+            "name": "matte smooth (archival)",
+            "description": [
+              "smooth fine art paper",
+              "matte warm-white tone",
+              "incredible durability and longetivity",
+              "crisp and vivid colours",
+              "excellent results with black and white images",
+              "gives character to digital art",
+              "ilford Gallerie prestige fine art smooth 200 gsm"
+            ],
+            "price-code": 4,
+            "discount": 0,
+            "new": false,
+            "default": false
+          },
+          {
+            "name": "no printing (preview only)",
+            "description": [],
+            "price-code": 1,
+            "discount": 0,
+            "new": false,
+            "default": false
+          }
+        ]
+      },
+      {
+        "name": "glass",
+        "variations": [
+          {
+            "name": "clear glass",
+            "description": [
+              "2mm thick",
+              "cost effective",
+              "available in very large sizes"
+            ],
+            "price-code": 1,
+            "discount": 0,
+            "new": false,
+            "default": true
+          },
+          {
+            "name": "clear perspex",
+            "description": [
+              "2mm thick",
+              "optical grade (clear as glass)",
+              "highly durable",
+              "very light",
+              "94% UV resistant"
+            ],
+            "price-code": 2,
+            "discount": 0,
+            "new": false,
+            "default": false
+          },
+          {
+            "name": "non-reflective glass",
+            "description": [
+              "2mm thick",
+              "reduces glare and reflections",
+              "suitable for highly lit rooms",
+              "matte finish"
+            ],
+            "price-code": 3,
+            "discount": 0,
+            "new": false,
+            "default": false
+          },
+          {
+            "name": "uv clear glass",
+            "description": [
+              "2.5mm thick",
+              "99% UV resistant",
+              "conservation grade",
+              "protects artworks from fading"
+            ],
+            "price-code": 4,
+            "discount": 0,
+            "new": false,
+            "default": false
+          },
+          {
+            "name": "uv non-reflective glass",
+            "description": [
+              "2.5mm thick",
+              "99% UV resistant",
+              "conservation grade",
+              "protects artworks from fading",
+              "reduces glare and reflections",
+              "matte finish"
+            ],
+            "price-code": 5,
+            "discount": 0,
+            "new": false,
+            "default": false
+          },
+          {
+            "name": "no glass",
+            "description": [
+              "cut & join empty frame",
+              "frame your protected canvas and artworks"
+            ],
+            "price-code": 5,
+            "discount": 0,
+            "new": false,
+            "default": false
+          }
+        ]
+      },
+      {
+        "name": "backing",
+        "variations": [
+          {
+            "name": "MDF (wood)",
+            "description": [
+              "great value for money",
+              "rigid and durable",
+              "can swap out images at any time"
+            ],
+            "price-code": 2,
+            "discount": 0,
+            "new": false,
+            "default": false
+          },
+          {
+            "name": "adhesive foamcore",
+            "description": [
+              "acid-free to protect image",
+              "very light",
+              "allows for flattest mounting of image"
+            ],
+            "price-code": 3,
+            "discount": 0,
+            "new": false,
+            "default": true
+          },
+          {
+            "name": "non-adhesive foamcore",
+            "description": [
+              "acid-free to protect image",
+              "very light",
+              "can swap out images more easily"
+            ],
+            "price-code": 4,
+            "discount": 0,
+            "new": false,
+            "default": false
+          },
+          {
+            "name": "no backing",
+            "description": [],
+            "price-code": 1,
+            "discount": 0,
+            "new": false,
+            "default": false
+          }
+        ]
+      },
+      {
+        "name": "hanging-system",
+        "variations": [
+          {
+            "name": "standback + hanger",
+            "description": [
+              "Ut enim ad minima veniam",
+              "quis nostrum exercitationem ullam",
+              "corporis suscipit laboriosam"
+            ],
+            "price-code": 1,
+            "discount": 0,
+            "new": false,
+            "default": true
+          },
+          {
+            "name": "metal hangers",
+            "description": [
+              "Ut enim ad minima veniam",
+              "quis nostrum exercitationem ullam",
+              "corporis suscipit laboriosam"
+            ],
+            "price-code": 2,
+            "discount": 0,
+            "new": false,
+            "default": false
+          },
+          {
+            "name": "d-rings & strings",
+            "description": [
+              "Ut enim ad minima veniam",
+              "quis nostrum exercitationem ullam",
+              "corporis suscipit laboriosam"
+            ],
+            "price-code": 3,
+            "discount": 0,
+            "new": false,
+            "default": false
+          }
+        ]
+      },
+      {
+        "name": "mat",
+        "variations": [
+          {
+            "name": "white",
+            "type": "top mat",
+            "min-uniform-width": 0.5,
+            "max-uniform-width": 101,
+            "min-lr-width": 101.6,
+            "min-tb-width": 152.4,
+            "default-width": 5,
+            "price-code": 1,
+            "default": true
+          },
+          {
+            "name": "black",
+            "type": "top mat",
+            "min-uniform-width": 0.5,
+            "max-uniform-width": 101,
+            "min-lr-width": 101.6,
+            "min-tb-width": 152.4,
+            "default-width": 5,
+            "price-code": 1,
+            "default": false
+          },
+          {
+            "name": "white",
+            "type": "bottom mat",
+            "min-uniform-width": 0.5,
+            "max-uniform-width": 101,
+            "min-lr-width": 101.6,
+            "min-tb-width": 152.4,
+            "default-width": 5,
+            "price-code": 1,
+            "default": true
+          },
+          {
+            "name": "black",
+            "type": "bottom mat",
+            "min-uniform-width": 0.5,
+            "max-uniform-width": 101,
+            "min-lr-width": 101.6,
+            "min-tb-width": 152.4,
+            "default-width": 5,
+            "price-code": 1,
+            "default": false
+          }
+        ]
+      }
+    ],
+    "thumbImage": [
+      "/assets/images/product/decor/1.jpg",
+      "/assets/images/product/decor/2.jpg"
+    ],
+    "image": [
+      "/assets/images/product/decor/1.jpg",
+      "/assets/images/product/decor/2.jpg",
+      "/assets/images/product/decor/3.jpg",
+      "/assets/images/product/decor/4.jpg",
+      "/assets/images/product/decor/5.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+    "isDeleted": false,
+    "featuredProduct": true,
+    "createdBy": "Rob",
+    "createdOn": "2020-09-27T18:25:43.511Z",
+    "lastUpdatedBy": "Rob",
+    "lastUpdatedOn": "2020-09-27T18:25:43.511Z"
+  },
+  {
+    "sku": "asdf102",
+    "displayName": "Canvas Printing",
+    "slug": "canvas-printing",
+    "name": "canvas-printing",
+    "affiliateLink": "",
+    "price": 18,
+    "discount": 0,
+    "new": false,
+    "rating": 5,
+    "ratingCount": 15,
+    "saleCount": 10,
+    "category": "other-products",
+    "tag": ["diy", "canvas"],
+    "stock": 10,
+    "details": [
+      {
+        "name": "dimensions",
+        "variations": [
+          {
+            "custom": {
+              "minimum-width": 10.0,
+              "minimum-height": 10.0,
+              "maximum-width": 140.0,
+              "maximum-height": 180.0,
+              "default-width": 20.3,
+              "default-height": 25.4
+            }
+          }
+        ]
+      },
+      {
+        "name": "stretching",
+        "variations": [
+          {
+            "name": "print & stretch",
+            "description": "your image will be printed and stretched into a frame",
+            "default": true,
+            "discount": 0,
+            "new": false,
+            "price-code": 1
+          },
+          {
+            "name": "printing only",
+            "description": "your image will be printed and rolled into a tube",
+            "default": false,
+            "discount": 0,
+            "new": false,
+            "price-code": 1
+          }
+        ]
+      },
+      {
+        "name": "edge",
+        "variations": [
+          {
+            "name": "black",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem",
+            "default": true,
+            "discount": 0,
+            "new": false,
+            "thumbImage": [
+              "/assets/images/product/perfumes/5.jpg",
+              "/assets/images/product/perfumes/6.jpg"
+            ],
+            "image": [
+              "/assets/images/product/perfumes/5.jpg",
+              "/assets/images/product/perfumes/6.jpg",
+              "/assets/images/product/perfumes/7.jpg",
+              "/assets/images/product/perfumes/8.jpg",
+              "/assets/images/product/perfumes/9.jpg"
+            ],
+            "price-code": 1
+          },
+          {
+            "name": "black",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem",
+            "default": false,
+            "discount": 0,
+            "new": false,
+            "thumbImage": [
+              "/assets/images/product/perfumes/5.jpg",
+              "/assets/images/product/perfumes/6.jpg"
+            ],
+            "image": [
+              "/assets/images/product/perfumes/5.jpg",
+              "/assets/images/product/perfumes/6.jpg",
+              "/assets/images/product/perfumes/7.jpg",
+              "/assets/images/product/perfumes/8.jpg",
+              "/assets/images/product/perfumes/9.jpg"
+            ],
+            "price-code": 1
+          },
+          {
+            "name": "mirror",
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem",
+            "default": false,
+            "discount": 0,
+            "new": false,
+            "thumbImage": [
+              "/assets/images/product/perfumes/5.jpg",
+              "/assets/images/product/perfumes/6.jpg"
+            ],
+            "image": [
+              "/assets/images/product/perfumes/5.jpg",
+              "/assets/images/product/perfumes/6.jpg",
+              "/assets/images/product/perfumes/7.jpg",
+              "/assets/images/product/perfumes/8.jpg",
+              "/assets/images/product/perfumes/9.jpg"
+            ],
+            "price-code": 2
+          }
+        ]
+      },
+      {
+        "name": "frames",
+        "variations": [
+          {
+            "name": "224H",
+            "width": 2,
+            "depth": 2,
+            "rebate": 0.4,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "white",
+            "price-code": 1,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "224F",
+            "width": 2,
+            "depth": 2,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "black",
+            "price-code": 1,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "224RO",
+            "width": 2,
+            "depth": 2,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "raw oak",
+            "price-code": 3,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VA",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "arsenic",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VG",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 10,
+            "new": false,
+            "material": "wood",
+            "color": "smoke",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VS",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "storm",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VO",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 10,
+            "new": true,
+            "material": "wood",
+            "color": "oyster",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VH",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "soft white",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VL",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "straw",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VL",
+            "width": 2,
+            "depth": 2,
+            "rebate": 0.7,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "straw",
+            "price-code": 2,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VS",
+            "width": 2,
+            "depth": 2,
+            "rebate": 0.7,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "storm",
+            "price-code": 2,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          }
+        ]
+      }
+    ],
+    "thumbImage": [
+      "/assets/images/product/decor/2.jpg",
+      "/assets/images/product/decor/3.jpg"
+    ],
+    "image": [
+      "/assets/images/product/decor/2.jpg",
+      "/assets/images/product/decor/3.jpg",
+      "/assets/images/product/decor/4.jpg",
+      "/assets/images/product/decor/5.jpg",
+      "/assets/images/product/decor/6.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+    "isDeleted": false,
+    "featuredProduct": true,
+    "createdBy": "Rob",
+    "createdOn": "2020-09-27T18:25:43.511Z",
+    "lastUpdatedBy": "Rob",
+    "lastUpdatedOn": "2020-09-27T18:25:43.511Z"
+  },
+  {
+    "sku": "asdf103",
+    "displayName": "Mirrors",
+    "slug": "mirrors",
+    "name": "mirrors",
+    "affiliateLink": "",
+    "price": 14,
+    "discount": 0,
+    "new": false,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 13,
+    "category": "diy-framing",
+    "tag": ["diy"],
+    "stock": 10,
+    "details": [
+      {
+        "name": "dimensions",
+        "variations": [
+          {
+            "custom": {
+              "minimum-width": 10.0,
+              "minimum-height": 10.0,
+              "maximum-width": 140.0,
+              "maximum-height": 180.0,
+              "default-width": 20.3,
+              "default-height": 25.4
+            }
+          }
+        ]
+      },
+      {
+        "name": "mirror type",
+        "variations": [
+          {
+            "name": "plain",
+            "description": ["simple and flat"],
+            "price-code": 1,
+            "discount": 0,
+            "new": false,
+            "default": true
+          },
+          {
+            "name": "bevelled",
+            "description": [
+              "have an edge that is cut at an angle to embellish the mirror"
+            ],
+            "price-code": 2,
+            "discount": 0,
+            "new": false,
+            "default": false
+          }
+        ]
+      },
+      {
+        "name": "hanging",
+        "variations": [
+          {
+            "name": "d-rings & wire",
+            "description": [
+              "a strong hanging system that will be suitable for small to medium sized mirrors",
+              "only available when the mirror is less than 120 cm on both sides"
+            ],
+            "price-code": 1,
+            "discount": 0,
+            "new": false,
+            "default": true
+          },
+          {
+            "name": "d-rings only",
+            "description": [
+              "two d-rings facing upwards",
+              "extremely strong hanging system for medium to large mirrors"
+            ],
+            "price-code": 1,
+            "discount": 0,
+            "new": false,
+            "default": false
+          }
+        ]
+      },
+      {
+        "name": "frames",
+        "variations": [
+          {
+            "name": "224H",
+            "width": 2,
+            "depth": 2,
+            "rebate": 0.4,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "white",
+            "price-code": 1,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "224F",
+            "width": 2,
+            "depth": 2,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "black",
+            "price-code": 1,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "224RO",
+            "width": 2,
+            "depth": 2,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "raw oak",
+            "price-code": 3,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VA",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "arsenic",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VG",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 10,
+            "new": false,
+            "material": "wood",
+            "color": "smoke",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VS",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "storm",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VO",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 10,
+            "new": true,
+            "material": "wood",
+            "color": "oyster",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VH",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "soft white",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VL",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "straw",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VL",
+            "width": 2,
+            "depth": 2,
+            "rebate": 0.7,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "straw",
+            "price-code": 2,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VS",
+            "width": 2,
+            "depth": 2,
+            "rebate": 0.7,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "storm",
+            "price-code": 2,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          }
+        ]
+      }
+    ],
+    "thumbImage": [
+      "/assets/images/product/decor/3.jpg",
+      "/assets/images/product/decor/4.jpg"
+    ],
+    "image": [
+      "/assets/images/product/decor/3.jpg",
+      "/assets/images/product/decor/4.jpg",
+      "/assets/images/product/decor/5.jpg",
+      "/assets/images/product/decor/6.jpg",
+      "/assets/images/product/decor/7.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+    "isDeleted": false,
+    "featuredProduct": true,
+    "createdBy": "Rob",
+    "createdOn": "2020-09-27T18:25:43.511Z",
+    "lastUpdatedBy": "Rob",
+    "lastUpdatedOn": "2020-09-27T18:25:43.511Z"
+  },
+  {
+    "sku": "asdf132",
+    "name": "Gift Voucher",
+    "slug": "gift-voucher",
+    "min-price": 50,
+    "price": 50,
+    "discount": 0,
+    "new": false,
+    "rating": 5,
+    "ratingCount": 15,
+    "saleCount": 10,
+    "category": "gift-voucher",
+    "tag": ["gift-voucher", "digital", "gift"],
+    "stock": 10,
+    "thumbImage": [
+      "/assets/images/product/furniture/2.jpg",
+      "/assets/images/product/furniture/3.jpg"
+    ],
+    "image": [
+      "/assets/images/product/furniture/2.jpg",
+      "/assets/images/product/furniture/3.jpg",
+      "/assets/images/product/furniture/4.jpg",
+      "/assets/images/product/furniture/5.jpg",
+      "/assets/images/product/furniture/6.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "sku": "asdf104",
+    "displayName": "Acrylics",
+    "slug": "acrylic-products",
+    "name": "acrylics",
+    "details": [""],
+    "price": 12,
+    "discount": 5,
+    "new": false,
+    "rating": 4,
+    "ratingCount": 15,
+    "saleCount": 19,
+    "category": "other-products",
+    "tag": ["acrylic"],
+    "stock": 12,
+    "affiliateLink": "https://www.amazon.com",
+    "thumbImage": [
+      "/assets/images/product/decor/4.jpg",
+      "/assets/images/product/decor/5.jpg"
+    ],
+    "image": [
+      "/assets/images/product/decor/4.jpg",
+      "/assets/images/product/decor/5.jpg",
+      "/assets/images/product/decor/6.jpg",
+      "/assets/images/product/decor/7.jpg",
+      "/assets/images/product/decor/8.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+    "isDeleted": false,
+    "featuredProduct": true,
+    "createdBy": "Rob",
+    "createdOn": "2020-09-27T18:25:43.511Z",
+    "lastUpdatedBy": "Rob",
+    "lastUpdatedOn": "2020-09-27T18:25:43.511Z"
+  },
+  {
+    "sku": "asdf105",
+    "displayName": "Printing",
+    "slug": "printing",
+    "name": "printing",
+    "affiliateLink": "",
+    "details": [""],
+    "price": 16,
+    "discount": 0,
+    "new": true,
+    "rating": 2,
+    "ratingCount": 5,
+    "saleCount": 12,
+    "category": "print",
+    "tag": ["print"],
+    "stock": 14,
+    "thumbImage": [
+      "/assets/images/product/decor/5.jpg",
+      "/assets/images/product/decor/6.jpg"
+    ],
+    "image": [
+      "/assets/images/product/decor/5.jpg",
+      "/assets/images/product/decor/6.jpg",
+      "/assets/images/product/decor/7.jpg",
+      "/assets/images/product/decor/8.jpg",
+      "/assets/images/product/decor/9.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+    "isDeleted": false,
+    "featuredProduct": true,
+    "createdBy": "Rob",
+    "createdOn": "2020-09-27T18:25:43.511Z",
+    "lastUpdatedBy": "Rob",
+    "lastUpdatedOn": "2020-09-27T18:25:43.511Z"
+  },
+  {
+    "sku": "asdf106",
+    "displayName": "Custom Certificate Framing",
+    "slug": "certificate",
+    "name": "certificate-framing",
+    "affiliateLink": "",
+    "price": 12,
+    "discount": 10,
+    "new": false,
+    "rating": 5,
+    "ratingCount": 4,
+    "saleCount": 16,
+    "category": "diy-framing",
+    "tag": ["diy"],
+    "stock": 0,
+    "details": [
+      {
+        "name": "dimensions",
+        "variations": [
+          {
+            "custom": {
+              "minimum-width": 10.0,
+              "minimum-height": 10.0,
+              "maximum-width": 140.0,
+              "maximum-height": 180.0,
+              "default-width": 20.3,
+              "default-height": 25.4
+            }
+          }
+        ]
+      },
+      {
+        "name": "frames",
+        "variations": [
+          {
+            "name": "224H",
+            "width": 2,
+            "depth": 2,
+            "rebate": 0.4,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "white",
+            "price-code": 1,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "224F",
+            "width": 2,
+            "depth": 2,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "black",
+            "price-code": 1,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "224RO",
+            "width": 2,
+            "depth": 2,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "raw oak",
+            "price-code": 3,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VA",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "arsenic",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VG",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 10,
+            "new": false,
+            "material": "wood",
+            "color": "smoke",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VS",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "storm",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VO",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 10,
+            "new": true,
+            "material": "wood",
+            "color": "oyster",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VH",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "soft white",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VL",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "straw",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VL",
+            "width": 2,
+            "depth": 2,
+            "rebate": 0.7,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "straw",
+            "price-code": 2,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VS",
+            "width": 2,
+            "depth": 2,
+            "rebate": 0.7,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "storm",
+            "price-code": 2,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          }
+        ]
+      },
+      {
+        "name": "mat",
+        "variations": [
+          {
+            "name": "white",
+            "type": "top mat",
+            "min-uniform-width": 0.5,
+            "max-uniform-width": 101,
+            "min-lr-width": 101.6,
+            "min-tb-width": 152.4,
+            "default-width": 5,
+            "price-code": 1,
+            "default": true
+          },
+          {
+            "name": "black",
+            "type": "top mat",
+            "min-uniform-width": 0.5,
+            "max-uniform-width": 101,
+            "min-lr-width": 101.6,
+            "min-tb-width": 152.4,
+            "default-width": 5,
+            "price-code": 1,
+            "default": false
+          },
+          {
+            "name": "white",
+            "type": "bottom mat",
+            "min-uniform-width": 0.5,
+            "max-uniform-width": 101,
+            "min-lr-width": 101.6,
+            "min-tb-width": 152.4,
+            "default-width": 5,
+            "price-code": 1,
+            "default": true
+          },
+          {
+            "name": "black",
+            "type": "bottom mat",
+            "min-uniform-width": 0.5,
+            "max-uniform-width": 101,
+            "min-lr-width": 101.6,
+            "min-tb-width": 152.4,
+            "default-width": 5,
+            "price-code": 1,
+            "default": false
+          }
+        ]
+      }
+    ],
+    "thumbImage": [
+      "/assets/images/product/decor/6.jpg",
+      "/assets/images/product/decor/7.jpg"
+    ],
+    "image": [
+      "/assets/images/product/decor/6.jpg",
+      "/assets/images/product/decor/7.jpg",
+      "/assets/images/product/decor/8.jpg",
+      "/assets/images/product/decor/9.jpg",
+      "/assets/images/product/decor/10.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+    "isDeleted": false,
+    "featuredProduct": true,
+    "createdBy": "Rob",
+    "createdOn": "2020-09-27T18:25:43.511Z",
+    "lastUpdatedBy": "Rob",
+    "lastUpdatedOn": "2020-09-27T18:25:43.511Z"
+  },
+  {
+    "sku": "asdf107",
+    "displayName": "Art Mounts",
+    "slug": "art-mount",
+    "name": "art-mounts",
+    "affiliateLink": "",
+    "details": [""],
+    "price": 17,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 7,
+    "saleCount": 13,
+    "category": "other-products",
+    "tag": ["art-mounts"],
+    "stock": 18,
+    "thumbImage": [
+      "/assets/images/product/decor/7.jpg",
+      "/assets/images/product/decor/8.jpg"
+    ],
+    "image": [
+      "/assets/images/product/decor/7.jpg",
+      "/assets/images/product/decor/8.jpg",
+      "/assets/images/product/decor/9.jpg",
+      "/assets/images/product/decor/10.jpg",
+      "/assets/images/product/decor/1.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+    "isDeleted": false,
+    "featuredProduct": true,
+    "createdBy": "Rob",
+    "createdOn": "2020-09-27T18:25:43.511Z",
+    "lastUpdatedBy": "Rob",
+    "lastUpdatedOn": "2020-09-27T18:25:43.511Z"
+  },
+  {
+    "sku": "asdf108",
+    "displayName": "Corks & Chalks",
+    "slug": "corks-and-chalks",
+    "name": "corks-and-chalks",
+    "affiliateLink": "",
+    "price": 15,
+    "discount": 0,
+    "new": false,
+    "rating": 5,
+    "ratingCount": 15,
+    "saleCount": 30,
+    "category": "diy-framing",
+    "tag": ["corks", "chalks"],
+    "stock": 12,
+    "details": [
+      {
+        "name": "dimensions",
+        "variations": [
+          {
+            "custom": {
+              "minimum-width": 20.0,
+              "minimum-height": 20.0,
+              "maximum-width": 122.0,
+              "maximum-height": 200.0,
+              "default-width": 20.0,
+              "default-height": 20.0
+            }
+          }
+        ]
+      },
+      {
+        "name": "backing",
+        "variations": [
+          {
+            "name": "MDF (wood)",
+            "description": [
+              "great value for money",
+              "rigid and durable",
+              "can swap out images at any time"
+            ],
+            "price-code": 2,
+            "discount": 0,
+            "new": false,
+            "default": false
+          },
+          {
+            "name": "adhesive foamcore",
+            "description": [
+              "acid-free to protect image",
+              "very light",
+              "allows for flattest mounting of image"
+            ],
+            "price-code": 3,
+            "discount": 0,
+            "new": false,
+            "default": true
+          },
+          {
+            "name": "non-adhesive foamcore",
+            "description": [
+              "acid-free to protect image",
+              "very light",
+              "can swap out images more easily"
+            ],
+            "price-code": 4,
+            "discount": 0,
+            "new": false,
+            "default": false
+          },
+          {
+            "name": "no backing",
+            "description": [],
+            "price-code": 1,
+            "discount": 0,
+            "new": false,
+            "default": false
+          }
+        ]
+      },
+      {
+        "name": "frames",
+        "variations": [
+          {
+            "name": "224H",
+            "width": 2,
+            "depth": 2,
+            "rebate": 0.4,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "white",
+            "price-code": 1,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "224F",
+            "width": 2,
+            "depth": 2,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "black",
+            "price-code": 1,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "224RO",
+            "width": 2,
+            "depth": 2,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "raw oak",
+            "price-code": 3,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VA",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "arsenic",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VG",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 10,
+            "new": false,
+            "material": "wood",
+            "color": "smoke",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VS",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "storm",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VO",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 10,
+            "new": true,
+            "material": "wood",
+            "color": "oyster",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VH",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "soft white",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VL",
+            "width": 2,
+            "depth": 4,
+            "rebate": 0.5,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "straw",
+            "price-code": 4,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VL",
+            "width": 2,
+            "depth": 2,
+            "rebate": 0.7,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "straw",
+            "price-code": 2,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          },
+          {
+            "name": "103VS",
+            "width": 2,
+            "depth": 2,
+            "rebate": 0.7,
+            "discount": 0,
+            "new": false,
+            "material": "wood",
+            "color": "storm",
+            "price-code": 2,
+            "thumbImage": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg"
+            ],
+            "image": [
+              "/assets/images/product/cosmetics/10.jpg",
+              "/assets/images/product/cosmetics/1.jpg",
+              "/assets/images/product/cosmetics/2.jpg",
+              "/assets/images/product/cosmetics/3.jpg",
+              "/assets/images/product/cosmetics/4.jpg"
+            ],
+            "description": "Ut enim ad minima veniam, quis nostrum exercitationem"
+          }
+        ]
+      }
+    ],
+    "thumbImage": [
+      "/assets/images/product/decor/8.jpg",
+      "/assets/images/product/decor/9.jpg"
+    ],
+    "image": [
+      "/assets/images/product/decor/8.jpg",
+      "/assets/images/product/decor/9.jpg",
+      "/assets/images/product/decor/10.jpg",
+      "/assets/images/product/decor/1.jpg",
+      "/assets/images/product/decor/2.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+    "isDeleted": false,
+    "featuredProduct": true,
+    "createdBy": "Rob",
+    "createdOn": "2020-09-27T18:25:43.511Z",
+    "lastUpdatedBy": "Rob",
+    "lastUpdatedOn": "2020-09-27T18:25:43.511Z"
+  },
+  {
+    "id": "9",
+    "sku": "asdf109",
+    "name": "Lorem ipsum decor nine",
+    "slug": "lorem-ipsum-decor-nine",
+    "price": 20,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 5,
+    "saleCount": 20,
+    "category": "ready-to-ship",
+    "tag": ["mirror"],
+    "stock": 16,
+    "thumbImage": [
+      "/assets/images/product/decor/9.jpg",
+      "/assets/images/product/decor/10.jpg"
+    ],
+    "image": [
+      "/assets/images/product/decor/9.jpg",
+      "/assets/images/product/decor/10.jpg",
+      "/assets/images/product/decor/1.jpg",
+      "/assets/images/product/decor/2.jpg",
+      "/assets/images/product/decor/3.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "10",
+    "sku": "asdf110",
+    "name": "Lorem ipsum decor ten",
+    "slug": "lorem-ipsum-decor-ten",
+    "price": 30,
+    "discount": 20,
+    "new": false,
+    "rating": 4,
+    "ratingCount": 10,
+    "saleCount": 30,
+    "category": "ready-to-ship",
+    "tag": ["corks", "chalks"],
+    "stock": 14,
+    "thumbImage": [
+      "/assets/images/product/decor/10.jpg",
+      "/assets/images/product/decor/1.jpg"
+    ],
+    "image": [
+      "/assets/images/product/decor/10.jpg",
+      "/assets/images/product/decor/1.jpg",
+      "/assets/images/product/decor/2.jpg",
+      "/assets/images/product/decor/3.jpg",
+      "/assets/images/product/decor/4.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "11",
+    "sku": "asdf111",
+    "name": "Lorem ipsum fashion one",
+    "slug": "lorem-ipsum-fashion-one",
+    "price": 17,
+    "discount": 10,
+    "new": true,
+    "rating": 4,
+    "ratingCount": 5,
+    "saleCount": 90,
+    "category": "ready-to-ship",
+    "tag": ["chalks", "corks"],
+    "thumbImage": [
+      "/assets/images/product/fashion/1.jpg",
+      "/assets/images/product/fashion/2.jpg"
+    ],
+    "image": [
+      "/assets/images/product/fashion/1.jpg",
+      "/assets/images/product/fashion/2.jpg",
+      "/assets/images/product/fashion/3.jpg",
+      "/assets/images/product/fashion/4.jpg",
+      "/assets/images/product/fashion/5.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "12",
+    "sku": "asdf112",
+    "name": "Lorem ipsum fashion two",
+    "slug": "lorem-ipsum-fashion-two",
+    "price": 13,
+    "discount": 14,
+    "new": false,
+    "rating": 4,
+    "ratingCount": 7,
+    "saleCount": 70,
+    "category": "ready-to-ship",
+    "tag": ["mirrors"],
+    "thumbImage": [
+      "/assets/images/product/fashion/2.jpg",
+      "/assets/images/product/fashion/3.jpg"
+    ],
+    "image": [
+      "/assets/images/product/fashion/2.jpg",
+      "/assets/images/product/fashion/3.jpg",
+      "/assets/images/product/fashion/4.jpg",
+      "/assets/images/product/fashion/5.jpg",
+      "/assets/images/product/fashion/6.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "13",
+    "sku": "asdf113",
+    "name": "Lorem ipsum fashion three",
+    "slug": "lorem-ipsum-fashion-three",
+    "price": 16,
+    "discount": 20,
+    "new": true,
+    "rating": 5,
+    "ratingCount": 27,
+    "saleCount": 78,
+    "category": "ready-to-ship",
+    "tag": ["corks", "chalks"],
+    "thumbImage": [
+      "/assets/images/product/fashion/3.jpg",
+      "/assets/images/product/fashion/4.jpg"
+    ],
+    "image": [
+      "/assets/images/product/fashion/3.jpg",
+      "/assets/images/product/fashion/4.jpg",
+      "/assets/images/product/fashion/5.jpg",
+      "/assets/images/product/fashion/6.jpg",
+      "/assets/images/product/fashion/7.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "sku": "asdf107",
+    "displayName": "Memorabilias",
+    "slug": "memorabilias",
+    "name": "memorabilias",
+    "affiliateLink": "",
+    "details": [""],
+    "price": 17,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 7,
+    "saleCount": 13,
+    "category": "special-products",
+    "tag": ["custom", "special products", "memorabilia"],
+    "stock": 18,
+    "thumbImage": [
+      "/assets/images/product/decor/7.jpg",
+      "/assets/images/product/decor/8.jpg"
+    ],
+    "image": [
+      "/assets/images/product/decor/7.jpg",
+      "/assets/images/product/decor/8.jpg",
+      "/assets/images/product/decor/9.jpg",
+      "/assets/images/product/decor/10.jpg",
+      "/assets/images/product/decor/1.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+    "isDeleted": false,
+    "featuredProduct": true,
+    "createdBy": "Rob",
+    "createdOn": "2020-09-27T18:25:43.511Z",
+    "lastUpdatedBy": "Rob",
+    "lastUpdatedOn": "2020-09-27T18:25:43.511Z"
+  },
+  {
+    "sku": "asdf107",
+    "displayName": "Display Boxes",
+    "slug": "display-boxes",
+    "name": "display-boxes",
+    "affiliateLink": "",
+    "details": [""],
+    "price": 17,
+    "discount": 12,
+    "new": true,
+    "rating": 3,
+    "ratingCount": 7,
+    "saleCount": 13,
+    "category": "special-products",
+    "tag": ["custom", "special products", "memorabilia"],
+    "stock": 18,
+    "thumbImage": [
+      "/assets/images/product/decor/7.jpg",
+      "/assets/images/product/decor/8.jpg"
+    ],
+    "image": [
+      "/assets/images/product/decor/7.jpg",
+      "/assets/images/product/decor/8.jpg",
+      "/assets/images/product/decor/9.jpg",
+      "/assets/images/product/decor/10.jpg",
+      "/assets/images/product/decor/1.jpg"
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+    "isDeleted": false,
+    "featuredProduct": true,
+    "createdBy": "Rob",
+    "createdOn": "2020-09-27T18:25:43.511Z",
+    "lastUpdatedBy": "Rob",
+    "lastUpdatedOn": "2020-09-27T18:25:43.511Z"
+  }
+]

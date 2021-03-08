@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Daniel Taibel",
+    "content": "Their professionalism, customer service, quality and pricing options are second to none. Isaac and Robert Wineberg own and operate the business and are a delight to deal with.",
+    "designation": "Director, Charleston's Fine Art Auctions"
+  },
+  {
+    "id": "2",
+    "name": "David Baker",
+    "content": "I have used Master Framing for all of my art collection and have found them to be highly professional in all their dealings with me. Service, quality of work and attention to detail is first class.",
+    "designation": "Customer"
+  },
+  {
+    "id": "3",
+    "name": "Tony Jordan",
+    "content": "I have dealt with Rob and Zac for several years. Their pricing is always more than competitive and the service is excellent. The quality with their finished job cannot be faulted",
+    "designation": "Customer"
+  }
+]

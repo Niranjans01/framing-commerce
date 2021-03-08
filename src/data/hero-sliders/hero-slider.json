@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "image": "../assets/images/hero-slider/hero-slider-one/header_1.jpg",
+    "subtitle": "MIRRORS",
+    "title": "Custom Mirrors",
+    "url": "/diy-framing",
+    "button": "Frame Now"
+  },
+  {
+    "id": "2",
+    "image": "../assets/images/hero-slider/hero-slider-one/header_2.jpg",
+    "subtitle": "DIY FRAMES",
+    "title": "Design your own frames",
+    "url": "/diy-framing",
+    "button": "Frame Now"
+  },
+  {
+    "id": "3",
+    "image": "../assets/images/hero-slider/hero-slider-one/header_3.jpg",
+    "subtitle": "CANVAS PRINTING",
+    "title": "Canvas Printing & Stretching",
+    "url": "/other-products",
+    "button": "Start Now"
+  }
+]

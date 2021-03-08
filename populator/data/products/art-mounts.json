@@ -1,0 +1,52 @@
+{
+    "displayName": "Art Mounts",
+    "discount": 0,
+    "isNew": false,
+    "category": "other-products",
+    "isDeleted": false,
+    "isFeatured": true,
+    "configurations": [
+        {
+            "name": "image"
+        },
+        {
+            "name": "dimension",
+            "values": [
+                "Art Mounts",
+                "A0 (84.1 cm x 118.9 cm)",
+                "A1 (59.4 cm x 84.1 cm)",
+                "A2 (42.0 cm x 59.4 cm)",
+                "A3 (29.7 cm x 42.0 cm)",
+                "A4 (21.0 cm x 29.7 cm)",
+                "A5 (14.8 cm x 21.0 cm)",
+                "B1 (70.7 cm x 100 cm)",
+                "B2 (50.0 cm x 70.7 cm)",
+                "B3 (35.3 cm x 50.0 cm)",
+                "B4 (25.0 cm x 35.3 cm)",
+                "B5 (17.6 cm x 25.0 cm)",
+                "B6 (12.5 cm x 17.6 cm)"
+            ]
+        },
+        {
+            "name": "print",
+            "values": [
+                "Digital Satin",
+                "Digital Gloss"
+            ]
+        },
+        {
+            "name": "edge",
+            "values": [
+                "White",
+                "Black"
+            ]
+        },
+        {
+            "name": "edge_width",
+            "values": [
+                "10 mm",
+                "20 mm"
+            ]
+        }
+    ]
+}

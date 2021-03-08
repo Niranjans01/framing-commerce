@@ -1,0 +1,34 @@
+[
+  {
+    "code": "mdf",
+    "displayName": "MDF (wood)",
+    "description": "great value for money\nrigid and durable\ncan swap out images at any time",
+    "priceCode": 2,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "code": "adhesive-fc",
+    "displayName": "Adhesive foamcore",
+    "description": "acid-free to protect image\nvery light\nallows for flattest mounting of image",
+    "priceCode": 3,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "code": "non-adhesive-fc",
+    "displayName": "Non-adhesive foamcore",
+    "description": "acid-free to protect image\nvery light\ncan swap out images more easily",
+    "priceCode": 4,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "code": "no-backing",
+    "displayName": "No backing",
+    "description": "",
+    "priceCode": 1,
+    "discount": 0,
+    "isNew": false
+  }
+]

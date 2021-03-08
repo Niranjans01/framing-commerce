@@ -1,0 +1,74 @@
+[
+    {
+        "displayName": "What methods of payment do you accept",
+        "description": "We accept Visa, Master Card, American Express and Afterpay"
+    },
+    {
+        "displayName": "Is GST included in your quote",
+        "description": "Yes, GST is clearly identified in the quote/invoice"
+    },
+    {
+        "displayName": "Do you accept PayPal",
+        "description": "Yes, we accept PayPal and Major Credit Cards"
+    },
+    {
+        "displayName": "Do you accept wholesale/bulk job and offer wholesale pricing",
+        "description": "We do a lot of wholesale work and will give you a quote dependant on the volume submitted"
+    },
+    {
+        "displayName": "If the job is received damaged, what are my options",
+        "description": "Contact us immediately and we will work on a solution that suits you"
+    },
+    {
+        "displayName": "Are returns accepted",
+        "description": "We do not accept returns if you have changed your mind. If goods are damaged in transit, they are covered by insurance. If there is a fault with the job we will fully rectify the problem to your satisfaction"
+    },
+    {
+        "displayName": "Do you deliver Australia wide",
+        "description": "Our Courier Service will deliver Australia Wide"
+    },
+    {
+        "displayName": "Do you quote for delivery to specific country areas",
+        "description": "Yes, we can quote delivery to any country area"
+    },
+    {
+        "displayName": "Does your Courier carry parcel insurance",
+        "description": "Our Courier carries Item damage"
+    },
+    {
+        "displayName": "If my order arrives incomplete, what are my options",
+        "description": "If some items are missing it may be a Courier problem and contact with the Courier company with your tracking number should resolve the problem"
+    },
+    {
+        "displayName": "Will my order have a tracking number",
+        "description": "When the parcel is picked up from us for transport, we will immediately advise you and provide the tracking number"
+    },
+    {
+        "displayName": "Are your framing products(matts, backing etc,) acid free",
+        "description": "All materials we use are of the highest standards and acid free"
+    },
+    {
+        "displayName": "Can I purchase glass /mirrors cut to size",
+        "description": "We can cut glass, mirrors, acrylic, corkboard to your specific requirements"
+    },
+    {
+        "displayName": "Is it possible to see samples of the matts/ frames etc",
+        "description": "If you are in Sydney, you can see samples at any of our stores or from the pictures on the web site"
+    },
+    {
+        "displayName": "How long have you been in business",
+        "description": "We are a family operated business and been in business over 20 years"
+    },
+    {
+        "displayName": "Where are you located",
+        "description": "Our main warehouse/workshop is in Zetland Sydney. We also have shops in Bondi, Clovelly, Double Bay, Mosman and Zetland"
+    },
+    {
+        "displayName": "Are you open to the public",
+        "description": "In addition to our stores, we are open to the public at Zetland (Alexandria)"
+    },
+    {
+        "displayName": "Is local pickup of the job available",
+        "description": "Your framing jobs can be picked up at any of our sites"
+    }
+]

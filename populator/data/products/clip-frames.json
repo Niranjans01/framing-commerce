@@ -1,0 +1,27 @@
+{
+    "displayName": "Clip Frames",
+    "discount": 0,
+    "isNew": false,
+    "category": "other-products",
+    "isDeleted": false,
+    "isFeatured": false,
+    "configurations": [
+        {
+            "name": "image"
+        },
+        {
+            "name": "dimension",
+            "values": [
+                "Clip Frames"
+            ]
+        },
+        {
+            "name": "print",
+            "values": [
+                "Digital Satin",
+                "Digital Gloss",
+                "No Printing (Preview only)"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "code": "white-bottom-mat",
+    "displayName": "White",
+    "type": "BOTTOM_MAT",
+    "minUniformWidth": 0.5,
+    "maxUniformWidth": 101,
+    "minLrWidth": 101.6,
+    "minTbWidth": 152.4,
+    "defaultWidth": 5,
+    "priceCode": "bot_mat"
+  },
+  {
+    "code": "black-bottom-mat",
+    "displayName": "Black",
+    "type": "BOTTOM_MAT",
+    "minUniformWidth": 0.5,
+    "maxUniformWidth": 101,
+    "minLrWidth": 101.6,
+    "minTbWidth": 152.4,
+    "defaultWidth": 5,
+    "priceCode": "bot_mat"
+  },
+  {
+    "code": "white-top-mat",
+    "displayName": "White",
+    "type": "TOP_MAT",
+    "minUniformWidth": 0.5,
+    "maxUniformWidth": 101,
+    "minLrWidth": 101.6,
+    "minTbWidth": 152.4,
+    "defaultWidth": 5,
+    "priceCode": "top_mat"
+  },
+  {
+    "code": "black-top-mat",
+    "displayName": "Black",
+    "type": "TOP_MAT",
+    "minUniformWidth": 0.5,
+    "maxUniformWidth": 101,
+    "minLrWidth": 101.6,
+    "minTbWidth": 152.4,
+    "defaultWidth": 5,
+    "priceCode": "top_mat"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "picture-framing",
+    "displayName": "Picture Frames",
+    "price": 35.0,
+    "discount": 0,
+    "shortDescription": "DIY picture framing",
+    "createdBy": "Ranie",
+    "createdOn": 1602309406000,
+    "lastUpdatedBy": "Ranie",
+    "lastUpdatedOn": 1602309406000,
+    "tags": ["diy", "picture"]
+  },
+  {
+    "id": "mirror-framing",
+    "displayName": "Mirror Frames",
+    "price": 50.0,
+    "discount": 0,
+    "shortDescription": "DIY mirror framing",
+    "createdBy": "Ranie",
+    "createdOn": 1602309406000,
+    "lastUpdatedBy": "Ranie",
+    "lastUpdatedOn": 1602309406000,
+    "tags": ["diy", "mirror"]
+  }
+]

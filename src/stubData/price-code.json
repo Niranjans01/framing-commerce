@@ -1,0 +1,17 @@
+[
+  {
+    "id": "18021",
+    "displayName": "0",
+    "isMultiplier": false,
+    "prices": {
+      "30": 120,
+      "35": 130
+    }
+  },
+  {
+    "id": "18022",
+    "displayName": "1",
+    "isMultiplier": true,
+    "multiplier": 0.9
+  }
+]

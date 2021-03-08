@@ -1,0 +1,34 @@
+[
+  {
+    "code": "semi-gloss",
+    "displayName": "semi-gloss (luster)",
+    "description": "industry standard professional photographic paper\nperfect for all types of photographs and portraits\npartial gloss and reflection of light\n90 year archival rating\nilford Gallerie prestige smooth pearl 310 gsm",
+    "priceCode": "semi-gloss",
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "code": "high-gloss",
+    "displayName": "high-gloss (metallic)",
+    "description": "amazing glossy metallic reflections\nhighlights vibrant colours with pearlescent finish\nincredible image clarity\nilford Gallerie prestige metallic gloss 260 gsm",
+    "priceCode": "high-gloss",
+    "discount": 10,
+    "isNew": false
+  },
+  {
+    "code": "matte-smooth",
+    "displayName": "matte-smooth (archival)",
+    "description": "smooth fine art paper\nmatte warm-white tone\nincredible durability and longetivity\ncrisp and vivid colours\nexcellent results with black and white images\ngives character to digital art\nilford Gallerie prestige fine art smooth 200 gsm",
+    "priceCode": "matte-smooth",
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "code": "no-printing",
+    "displayName": "no printing (preview only)",
+    "description": "",
+    "priceCode": null,
+    "discount": 0,
+    "isNew": false
+  }
+]

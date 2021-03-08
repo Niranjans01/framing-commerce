@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "masterframing-cee70",
+    "staging": "masterframing-staging"
+  }
+}

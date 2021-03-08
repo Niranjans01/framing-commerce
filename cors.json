@@ -1,0 +1,8 @@
+[
+  {
+    "origin": ["http://localhost:3000", "http://34.95.108.103","https://masterframing-staging.web.app","masterframing-staging.web.app"],
+    "method": ["GET", "PUT", "OPTIONS"],
+    "responseHeader": ["Content-Type"],
+    "maxAgeSeconds": 3600
+  }
+]

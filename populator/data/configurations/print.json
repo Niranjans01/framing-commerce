@@ -1,0 +1,41 @@
+[
+    {
+        "displayName": "Digital Satin",
+        "discount": 0,
+        "description": "195 gsm\nInkjet on Satin Paper\nExcellent Image Quality",
+        "isNew": false,
+        "isDeleted": false,
+        "priceCode": "Standard Photo"
+    },
+    {
+        "displayName": "Digital Gloss",
+        "discount": 0,
+        "description": "195 gsm\nInkjet on Gloss Paper\nExcellent Image Quality",
+        "isNew": false,
+        "isDeleted": false,
+        "priceCode": "Metallic Gloss"
+    },
+    {
+        "displayName": "Digital Metallic",
+        "discount": 0,
+        "description": "255 gsm\nInkjet with high gloss paper with pearlescent metallic finish",
+        "isNew": false,
+        "isDeleted": false,
+        "priceCode": "Metallic Gloss"
+    },
+    {
+        "displayName": "Standard Canvas",
+        "discount": 0,
+        "description": "description",
+        "isNew": false,
+        "isDeleted": false,
+        "priceCode": "Standard Canvas"
+    },
+    {
+        "displayName": "No Printing (Preview only)",
+        "discount": 0,
+        "description": "Printing will not be done",
+        "isDeleted": false,
+        "isNew": false
+    }
+]

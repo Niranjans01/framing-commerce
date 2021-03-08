@@ -1,0 +1,39 @@
+.user-address-form {
+  #billing-form {
+    button {
+      font-size: 13px;
+      font-weight: 600;
+      padding: 15px 25px;
+      text-transform: uppercase;
+      color: #fff;
+      border: none;
+      background-color: #333;
+    }
+
+    .reset {
+      margin-left: 20px;
+    }
+  }
+}
+
+.address-list {
+  display: flex;
+  flex-wrap: wrap;
+
+  address {
+    margin-right: 20px;
+    max-width: 250px;
+
+    p {
+      line-height: 1.6;
+    }
+
+    .lezada-button {
+      margin-right: 10px;
+    }
+
+    svg {
+      margin-right: 0;
+    }
+  }
+}

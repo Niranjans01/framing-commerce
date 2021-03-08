@@ -1,0 +1,17 @@
+[
+    {
+        "displayName": "Plain",
+        "discount": 0,
+        "description": "Simple and flat",
+        "isNew": false,
+        "isDeleted": false,
+        "priceCode": "Plain Mirror"
+    },
+    {
+        "displayName": "Bevel",
+        "discount": 0,
+        "description": "Have an edge that is cut at an angle to embellish the mirror",
+        "isNew": false,
+        "priceCode": "Bevel Mirror"
+    }
+]

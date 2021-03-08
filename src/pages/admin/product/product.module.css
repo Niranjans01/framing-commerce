@@ -1,0 +1,19 @@
+.columnFlex {
+    display: flex;
+    flex-direction: column;
+}
+
+.discount {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.categories {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.search {
+    display: flex;
+    justify-content: flex-end;
+}

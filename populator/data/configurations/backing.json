@@ -1,0 +1,24 @@
+[
+    {
+        "displayName": "MDF Wood",
+        "description": "Used for items needed a more durable backing",
+        "isNew": false,
+        "isDeleted": false,
+        "discount": 0
+    },
+    {
+        "displayName": "Adhesive Foamcore",
+        "description": "Acid-free to protect the image\nVery light\nAllows for the flattest mounting of image",
+        "isNew": false,
+        "isDeleted": false,
+        "discount": 0,
+        "priceCode": "Adhesive Foamcore"
+    },
+    {
+        "displayName": "Non-adhesive Foamcore",
+        "description": "Acid-free to protect the image\nVery light\nCan swap out images more easily",
+        "isNew": false,
+        "isDeleted": false,
+        "discount": 0
+    }
+]

@@ -1,0 +1,36 @@
+{
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "scripts": {
+    "lint": "eslint .",
+    "serve": "firebase emulators:start --only functions --inspect-functions",
+    "shell": "firebase functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "dependencies": {
+    "@google-cloud/storage": "^5.3.0",
+    "axios": "^0.21.0",
+    "busboy": "^0.3.1",
+    "eway-rapid": "^1.2.1",
+    "express": "^4.17.1",
+    "firebase-admin": "^8.10.0",
+    "firebase-functions": "^3.6.1",
+    "fuse.js": "^6.4.1",
+    "handlebars": "^4.7.6",
+    "joi": "^17.2.1",
+    "luxon": "^1.25.0",
+    "mailchimp-api-v3": "^1.14.0",
+    "mandrill-api": "^1.0.45",
+    "md5": "^2.3.0",
+    "nodemailer": "^6.4.11",
+    "shortid": "^2.2.15"
+  },
+  "devDependencies": {
+    "eslint": "^5.12.0",
+    "eslint-plugin-promise": "^4.0.1",
+    "firebase-functions-test": "^0.2.0"
+  },
+  "private": true
+}

@@ -1,0 +1,6 @@
+node_modules/
+service-account.json
+*.log
+permissions.json
+service_account.json
+.runtimeconfig.json

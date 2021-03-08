@@ -1,0 +1,22 @@
+[
+  {
+    "code": "white",
+    "displayName": "White",
+    "description": "Ut enim ad minima veniam, quis nostrum exercitationem",
+    "discount": 0,
+    "isNew": false,
+    "thumbnails": [],
+    "images": [],
+    "priceCode": "white"
+  },
+  {
+    "code": "wrap-around",
+    "displayName": "Wrap Around",
+    "description": "Ut enim ad minima veniam, quis nostrum exercitationem",
+    "discount": 0,
+    "isNew": false,
+    "thumbnails": [],
+    "images": [],
+    "priceCode": "wrap-around"
+  }
+]

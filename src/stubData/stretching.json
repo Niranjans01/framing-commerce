@@ -1,0 +1,18 @@
+[
+  {
+    "code": "print-stretch",
+    "displayName": "print & stretch",
+    "description": "your image will be printed and stretched into a frame",
+    "discount": 0,
+    "isNew": false,
+    "priceCode": "stretch"
+  },
+  {
+    "code": "print-only",
+    "displayName": "printing only",
+    "description": "your image will be printed and rolled into a tube",
+    "discount": 0,
+    "isNew": false,
+    "priceCode": null
+  }
+]

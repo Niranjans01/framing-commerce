@@ -1,0 +1,42 @@
+[
+  {
+    "code": "custom",
+    "displayName": "custom",
+    "minWidth": 10.0,
+    "minHeight": 10.0,
+    "maxWidth": 101.5,
+    "maxHeight": 152.5,
+    "width": 10.2,
+    "height": 15.3
+  },
+  {
+    "code": "a1",
+    "displayName": "A1",
+    "width": 59.4,
+    "height": 84.1
+  },
+  {
+    "code": "a2",
+    "displayName": "A2",
+    "width": 42.0,
+    "height": 84.1
+  },
+  {
+    "code": "a3",
+    "displayName": "A3",
+    "width": 29.7,
+    "height": 42.0
+  },
+  {
+    "code": "a4",
+    "displayName": "A4",
+    "width": 21.0,
+    "height": 29.7
+  },
+  {
+    "code": "a5",
+    "displayName": "A5",
+    "width": 14.8,
+    "height": 21
+  }
+]

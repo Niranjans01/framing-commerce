@@ -1,0 +1,27 @@
+[
+    {
+        "displayName": "Wrap Around",
+        "discount": 0,
+        "description": "Image is wrapped around the side",
+        "images": [],
+        "isNew": false,
+        "isDeleted": false,
+        "priceCode": "Stretch"
+    },
+    {
+        "displayName": "White",
+        "discount": 0,
+        "description": "Image on face only, the sides will be in white",
+        "images": [],
+        "isDeleted": false,
+        "isNew": false
+    },
+    {
+        "displayName": "Black",
+        "discount": 0,
+        "description": "Image on face only, the sides will be in black",
+        "images": [],
+        "isDeleted": false,
+        "isNew": false
+    }
+]

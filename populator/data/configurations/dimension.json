@@ -1,0 +1,122 @@
+[
+    {
+        "displayName": "custom",
+        "minimumHeight": 10,
+        "minimumWidth": 10,
+        "maximumWidth": 300,
+        "maximumHeight": 300,
+        "isDeleted": false,
+        "isCustom": true
+    },
+    {
+        "displayName": "A0 (84.1 cm x 118.9 cm)",
+        "height": 118.9,
+        "width": 84.1,
+        "isDeleted": false,
+        "isCustom": false
+    },
+    {
+        "displayName": "A1 (59.4 cm x 84.1 cm)",
+        "height": 84.1,
+        "width": 59.4,
+        "isDeleted": false,
+        "isCustom": false
+    },
+    {
+        "displayName": "A2 (42.0 cm x 59.4 cm)",
+        "height": 59.4,
+        "width": 42,
+        "isDeleted": false,
+        "isCustom": false
+    },
+    {
+        "displayName": "A3 (29.7 cm x 42.0 cm)",
+        "height": 42,
+        "width": 29.7,
+        "isDeleted": false,
+        "isCustom": false
+    },
+    {
+        "displayName": "A4 (21.0 cm x 29.7 cm)",
+        "height": 29.7,
+        "width": 21,
+        "isDeleted": false,
+        "isCustom": false
+    },
+    {
+        "displayName": "A5 (14.8 cm x 21.0 cm)",
+        "height": 21,
+        "width": 14.8,
+        "isDeleted": false,
+        "isCustom": false
+    },
+    {
+        "displayName": "B1 (70.7 cm x 100 cm)",
+        "height": 100,
+        "width": 70.7,
+        "isDeleted": false,
+        "isCustom": false
+    },
+    {
+        "displayName": "B2 (50.0 cm x 70.7 cm)",
+        "height": 70.7,
+        "width": 50,
+        "isDeleted": false,
+        "isCustom": false
+    },
+    {
+        "displayName": "B3 (35.3 cm x 50.0 cm)",
+        "height": 50,
+        "width": 35.3,
+        "isDeleted": false,
+        "isCustom": false
+    },
+    {
+        "displayName": "B4 (25.0 cm x 35.3 cm)",
+        "height": 35.3,
+        "width": 25,
+        "isDeleted": false,
+        "isCustom": false
+    },
+    {
+        "displayName": "B5 (17.6 cm x 25.0 cm)",
+        "height": 25,
+        "width": 17.6,
+        "isDeleted": false,
+        "isCustom": false
+    },
+    {
+        "displayName": "B6 (12.5 cm x 17.6 cm)",
+        "height": 17.6,
+        "width": 12.5,
+        "isDeleted": false,
+        "isCustom": false
+    },
+    {
+        "displayName": "Clip Frames",
+        "maximumHeight": 120,
+        "maximumWidth": 90,
+        "minimumHeight": 10,
+        "minimumWidth": 10,
+        "isDeleted": false,
+        "isCustom": true
+    },
+    {
+        "displayName": "Corks & Chalks",
+        "maximumHeight": 1200,
+        "maximumWidth": 2000,
+        "minimumHeight": 10,
+        "minimumWidth": 10,
+        "isDeleted": false,
+        "isCustom": true
+    },
+    {
+        "displayName": "Art Mounts",
+        "maximumHeight": 2400,
+        "maximumWidth": 1200,
+        "minimumHeight": 10,
+        "minimumWidth": 10,
+        "isDeleted": false,
+        "isCustom": true
+    }
+]

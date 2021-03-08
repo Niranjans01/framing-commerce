@@ -1,0 +1,26 @@
+[
+    {
+        "displayName": "6 mm Frame",
+        "description": "6 mm float frames",
+        "isNew": false,
+        "isDeleted": false,
+        "priceCode": "Acrylic Float Frame (6mm)",
+        "discount": 0
+    },
+    {
+        "displayName": "10 mm",
+        "description": "10 mm thick edge",
+        "isNew": false,
+        "isDeleted": false,
+        "priceCode": "Art Mount (10mm)",
+        "discount": 0
+    },
+    {
+        "displayName": "20 mm",
+        "description": "20 mm thick edge",
+        "isNew": false,
+        "isDeleted": false,
+        "priceCode": "Art Mount (20mm)",
+        "discount": 0
+    }
+]

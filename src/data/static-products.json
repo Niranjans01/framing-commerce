@@ -1,0 +1,136 @@
+[
+  {
+    "id": "1",
+    "sku": "asdf100",
+    "displayName": "Rugby Ball",
+    "price": 129.00,
+    "name": "display-boxes",
+    "category": "special-products",
+    "tag": ["display boxes", "custom-made", "trophy"],
+    "images": [
+      {
+        "id": "17",
+        "url": "/assets/images/display-boxes/rugby.jpg"
+      }
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "2",
+    "sku": "asdf200",
+    "displayName": "Soccer Ball",
+    "price": 129.00,
+    "name": "display-boxes",
+    "category": "special-products",
+    "tag": ["display boxes", "custom-made", "trophy"],
+    "images": [
+      {
+        "id": "10",
+        "url": "/assets/images/display-boxes/soccer.jpg"
+      }
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "3",
+    "sku": "asdf300",
+    "displayName": "Tennis Ball",
+    "price": 89.00,
+    "name": "display-boxes",
+    "category": "special-products",
+    "tag": ["display boxes", "custom-made", "trophy"],
+    "images": [
+      {
+        "id": "11",
+        "url": "/assets/images/display-boxes/tennis.jpg"
+      }
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "4",
+    "sku": "asdf400",
+    "displayName": "Jersey straight under glass",
+    "name": "memorabilias",
+    "category": "special-products",
+    "tag": ["memorabilias", "custom-made", "jersey"],
+    "images": [
+      {
+        "id": "12",
+        "url": "/assets/images/memorabilias/style-5.jpg"
+      }
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "5",
+    "sku": "asdf500",
+    "displayName": "Jersey with single mat",
+    "name": "memorabilias",
+    "category": "special-products",
+    "tag": ["memorabilias", "custom-made", "jersey"],
+    "images": [
+      {
+        "id": "13",
+        "url": "/assets/images/memorabilias/style-2.jpg"
+      }
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "6",
+    "sku": "asdf600",
+    "displayName": "Jersey with double mat",
+    "name": "memorabilias",
+    "category": "special-products",
+    "tag": ["memorabilias", "custom-made", "jersey"],
+    "images": [
+      {
+        "id": "14",
+        "url": "/assets/images/memorabilias/style-3.jpg"
+      }
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "7",
+    "sku": "asdf700",
+    "displayName": "Jersey with double mat style 2",
+    "name": "memorabilias",
+    "category": "special-products",
+    "tag": ["jerseys", "custom-made", "jersey"],
+    "images": [
+      {
+        "id": "15",
+        "url": "/assets/images/memorabilias/style-4.jpg"
+      }
+    ],
+    "shortDescription": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+    "fullDescription": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+  },
+  {
+    "id": "8",
+    "sku": "asdf800",
+    "name": "gift-voucher",
+    "displayName": "Gift Voucher",
+    "category": "special-products",
+    "min-price": 50,
+    "price": 50,
+    "discount": 0,
+    "tag": ["gift-voucher", "digital", "gift"],
+    "images": [
+      {
+        "id": "16",
+        "url": "/assets/images/gift-vouchers/gift-voucher.jpg"
+      }
+    ],
+    "shortDescription": "A Digital Gift Voucher",
+    "fullDescription": "This is a long description"
+  }
+]

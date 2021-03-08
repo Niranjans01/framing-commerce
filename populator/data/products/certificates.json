@@ -1,0 +1,62 @@
+{
+  "displayName": "Custom Certificate Framing",
+  "discount": 0,
+  "isNew": false,
+  "category": "diy-framing",
+  "isDeleted": false,
+  "isFeatured": false,
+  "configurations": [
+    {
+      "name": "dimension",
+      "values": [
+        "custom",
+        "A0 (84.1 cm x 118.9 cm)",
+        "A1 (59.4 cm x 84.1 cm)",
+        "A2 (42.0 cm x 59.4 cm)",
+        "A3 (29.7 cm x 42.0 cm)",
+        "A4 (21.0 cm x 29.7 cm)",
+        "A5 (14.8 cm x 21.0 cm)",
+        "B1 (70.7 cm x 100 cm)",
+        "B2 (50.0 cm x 70.7 cm)",
+        "B3 (35.3 cm x 50.0 cm)",
+        "B4 (25.0 cm x 35.3 cm)",
+        "B5 (17.6 cm x 25.0 cm)",
+        "B6 (12.5 cm x 17.6 cm)"
+      ]
+    },
+    {
+      "name": "backing",
+      "values": ["Adhesive Foamcore", "Non-adhesive Foamcore", "No backing"]
+    },
+    {
+      "name": "glass",
+      "values": [
+        "Clear Glass",
+        "Clear Perspex",
+        "Non-Reflective Glass",
+        "Tru View Ultravue UV 70 Glass (Premium)",
+        "No Glass"
+      ]
+    },
+    {
+      "name": "mat"
+    },
+    {
+      "name": "frame",
+      "values": [
+        "120BLK",
+        "120BS",
+        "120MAH",
+        "120TK",
+        "A21301",
+        "A21302",
+        "A21303",
+        "A21304",
+        "A21401",
+        "A21402",
+        "A21403",
+        "A21404"
+      ]
+    }
+  ]
+}
